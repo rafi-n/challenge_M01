@@ -1,3 +1,5 @@
+![Hive Blockchain Technologies Ltd](images/hive_bct.webp)
+
 # HIVE A Canadian Crypto Miner
 
 ## Overview and Origin
@@ -22,39 +24,25 @@ Hive has received several amounts of funding from its inception (2017) up to the
 
 ## Business Activities:
 
-* What specific financial problem is the company or project trying to solve?
-
 Cryptocurrencies in general, allow for low cost transactions and ease of access to services. Anyone around the world with internet access can participate in cryptocurrency markets. Hive provides a way for investors to gain access to the cryptomarket while not investing directly in cryptocurreny itself.
 
 Hive is committed to bolstering the cryptocurrency market by being a leading player in the mining and blockchain aspects of the industry. Hive wants to continue support for decentralized finance (DeFi) which removes barriers to other participants in the cryptocurrency market.
 
-* Who is the company's intended customer?  Is there any information about the market size of this set of customers?
-
 Hive does sell some of the crypto that it mines but otherwise does not provide a particular product or service to any end customer. Hive's mining activities creates more cryptocurrencies which can then be used in the open market. Market participants are able to invest in the company. Hive has 89 institutional investors. - [fintel.io](https://fintel.io/so/us/hive)
-
-* What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 
 Crypto mining is power intensive and requires high efficiency to improve margins. Hive competes against various smaller crypto mining entities, even individuals but also larger entities like governments. Hive uses 100% renewable energy source for its mining activities to reduce its impact to the environment. They also use a combination of ASIC (application specific integrated circuits) and GPU (graphics processing unit) to mine cryptocurrencies. GPUs can be used to mine any cryptocurrencies whereas ASICs are custom built to support only one cryptocurrency. The ASIC provides better efficiency for the particular cryptocurrency it is mining. Using these ASICs, Hive created a mining machine called, "Hive BuzzMiner", which has greatly improved their ability to mine effectively.
 
-> We are able to operate our machines from 110 TH/s to 130 TH/s (Terahashes per second, 10<sup>12</sup>), allowing us to optimize the profitability of our fleet, by varying the power consumption and machine efficiency. Accordingly, our initial build of 5,800 HIVE BuzzMiners, can produce between 638 PH/s to 754 PH/s (Petahashes per second, 10<sup>15</sup>). [[hiveblockchain](https://www.hiveblockchain.com/news/hive-blockchain-announces-commercial-deployment-of-the-hive-buzzminer-powered-by-the-intel-blockscale-asic/)]
+> We are able to operate our machines from 110 TH/s to 130 TH/s (Terahashes per second, 10<sup>12</sup>), allowing us to optimize the profitability of our fleet, by varying the power consumption and machine efficiency. Accordingly, our initial build of 5,800 HIVE BuzzMiners, can produce between 638 PH/s to 754 PH/s (Petahashes per second, 10<sup>15</sup>). - [hiveblockchain](https://www.hiveblockchain.com/news/hive-blockchain-announces-commercial-deployment-of-the-hive-buzzminer-powered-by-the-intel-blockscale-asic/)
 
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
-
-Hive is utilizing various technologies for its mining activities. The main technology is blockchain which is a large distributed, indestructible ledger of all cryptocurrency transactions. Hive has invested a lot in hardware for their datacenters as well as the chips that power that hardware. Hive is one of four companies that has been selected to use Intel's "Blockscale" chip. [[hiveblockchain](https://www.hiveblockchain.com/news/hive-blockchain-provides-march-2022-production-and-intel-update/)] As previously mentioned, they have developed their own highly efficient crypto mining machine.
+Hive is utilizing various technologies for its mining activities. The main technology is blockchain which is a large distributed, indestructible ledger of all cryptocurrency transactions. Hive has invested a lot in hardware for their datacenters as well as the chips that power that hardware. Hive is one of four companies that has been selected to use Intel's "Blockscale" chip. As previously mentioned, they have developed their own highly efficient crypto mining machine. - [hiveblockchain](https://www.hiveblockchain.com/news/hive-blockchain-provides-march-2022-production-and-intel-update/) 
 
 ## Landscape:
 
-* What domain of the financial industry is the company in?
-
-Hive operates in the cryptocurrency mining industry which has seen some major developments over the last 5-10 years. One of the greatest innovations during those years have been in the semiconductor industry. GPUs and ASICs that perform vast amounts of calculations at high speed and efficiency have changed the game for crypto mining. Without these innovations, crypto mining would not be feasible. The mining process requires a lot energy to drive the machines and chips the do the actual mining. Green energy technology has helped miners run their business sustainably and not draw the attention of regulators. The industry has attracted a lot of attention all over the world and there are more players in it today. Notably, Hive's main competitors are Riot Blockchain, and Hut 8 Mining Corp. [Investopedia](https://www.investopedia.com/top-crypto-mining-stocks-5213809)
+Hive operates in the cryptocurrency mining industry which has seen some major developments over the last 5-10 years. One of the greatest innovations during those years have been in the semiconductor industry. GPUs and ASICs that perform vast amounts of calculations at high speed and efficiency have changed the game for crypto mining. Without these innovations, crypto mining would not be feasible. The mining process requires a lot energy to drive the machines and chips the do the actual mining. Green energy technology has helped miners run their business sustainably and not draw the attention of regulators. The industry has attracted a lot of attention all over the world and there are more players in it today. Notably, Hive's main competitors are Riot Blockchain, and Hut 8 Mining Corp. - [Investopedia](https://www.investopedia.com/top-crypto-mining-stocks-5213809)
 
 ## Results
 
-* What has been the business impact of this company so far?
-
-Hive has operations around the world including, Iceland, Sweden and its headquarters in Canada. They've utilized state of the art techology to mine crypto using renewable energy sources.
-
-* What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
+Hive has operations around the world including, Iceland, Sweden and its headquarters in Canada. They've utilized state of the art techology to mine crypto using renewable energy sources. They've shown that crypto mining can be done in an environmentally friendly way and can provide value to investors without having to directly take on the risk of crypto .
 
 One of the best metrics for crypto mining is hashes per second (H/s). When crypto is created, it has to be written to the blockchain through solving complicated mathematical problems to verify hashes. So the amount of crypto mined is directly associated with how many hashes are created in a given time. Additionally, the energy consumption in megawatts (MW) will add to their costs and should be reduced.
 
@@ -64,31 +52,26 @@ One of the best metrics for crypto mining is hashes per second (H/s). When crypt
 |Riot   |4.6|136|
 |Hut 8  |2.5|109|
 
+\* EH/s: Exahashes per second, Exa=10<sup>18</sup> 
+
 One of the best metrics for crypto mining is hashes per second (H/s). When crypto is created, it has to be written to the blockchain through solving complicated mathematical problems to verify hashes. So the amount of crypto mined is directly associated with how many hashes are created in a given time. 
 
-* How is your company performing relative to competitors in the same domain?
+Hive and Riot crypto production is summarized in the table below:
+
+|Company|BTC Holdings 2022|
+|:------|:---------------:|
+|Hive|3342|
+|Riot|6897|
+
+[hiveblockchain](https://www.hiveblockchain.com/investors/presentation), [riot](https://www.riotplatforms.com/news-media/press-releases/detail/145/riot-announces-december-2022-production-and-operations)
+
+It would appear that Riot is very much ahead of Hive in the amount of BTC it has produced. Hive will remain a fierce competitor in the crypto mining field as they continue to grow their data centers and invest in more efficient machines. Hive also has operations around the world which keeps it well diversified.
 
 ## Recommendations
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+Hive has invested a lot of its resources into building crypto mining facilities that use state of the art machines and green energy. As regulators around the world are increasingly concerned with sustainability, Hive can lease some of their resources to other companies or individuals. Hive could levy a fee for this service that would compensate them for all their costs plus some profit margin. This would be a cloud-based approach. Their strategy of mining and hoarding or selling cryptocurrencies is great as long as the value of the cryptocurrency remains strong. By allowing other participants to mine and accumulate cryptocurrencies, they may encourage the use and demand for it, thus increasing its value. To enable this, Hive would only have to make sure that their machines are only leased out for the duration of the contract and make sure that they are always functional. However, opening their networks to outsiders would require stronger cybersecurity since there may be some malicious users who may compromise their systems.
 
-Hive has invested a lot of its resources into building crypto mining facilities that use state of the art machines and green energy. As regulators around the world are increasingly concerned with sustainability, Hive can lease some of their resources to other companies or individuals. Hive would levy a fee for this service that would compensate them for all their costs plus some profit margin. This would be a cloud-based approach.
-
-Hive stores all of its cryptocurrency in cold storage meaning that it is not connected to the internet. They could offer to store crypto for customers like a bank safe deposit box for a fee.
-
-* Why do you think that offering this product or service would benefit the company?
-
-Hive's curreny strategy of mining and hoarding or selling cryptocurrencies is great as long as the value of the cryptocurrency remains strong. By allowing other participants to mine and accumulate cryptocurrencies, they may encourage the use and demand for it, thus increasing its value.
-
-Offering cold storage for crypto for a fee, could add another revenue stream but it does create issues with physical security of the cold wallets.
-
-* What technologies would this additional product or service utilize?
-
-Leasing out machines to customers would not require any additional technology since all transactions are written into the blockchain. Hive would only have to make sure that their machines are only leased out for the duration of the contract and make sure that they are always functional. However, opening their networks to outsiders would require stronger cybersecurity since there may be some malicious users who may compromise their systems.
-
-* Why are these technologies appropriate for your solution?
-
-The blockchain is where all transactions are recorded and is trusted by all participants. 
+Hive stores all of its cryptocurrency in cold storage meaning that it is not connected to the internet. This keeps it safe from hackers or any other compromise from the network. They could offer to store crypto for customers like a bank safe deposit box for a fee. Offering cold storage for crypto for a fee, could add another revenue stream but it does create issues with physical security of the cold wallets.
 
 [yfin]: <https://ca.finance.yahoo.com/quote/HIVE.V/profile?p=HIVE.V>
 [newswire]: <https://www.newswire.ca/news-releases/hive-blockchain-currently-leeta-gold-announces-strategic-partnership-with-leading-cryptocurrency-miner-genesis-mining-and-acquisition-of-data-centre-in-iceland-628387573.html>
