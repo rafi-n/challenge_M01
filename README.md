@@ -4,7 +4,7 @@
 
 ## Overview and Origin
 
-Hive Blockchain Technologies Ltd (Hive), is a cryptocurrency mining firm. Located in Vancouver, BC, got its start back in 1987 as Leeta Gold Corp, when it was incorporated. Leeta combined with Genesis Mining Ltd, a leading crypto miner at the time and changed its name in September 2017, to more closely match its current operations. 
+Hive Blockchain Technologies Ltd (Hive), is a cryptocurrency mining firm. Located in Vancouver, BC, got its start back in 1987 as Leeta Gold Corp, when it was incorporated. Leeta combined with Genesis Mining Ltd, a leading crypto miner at the time and changed its name in September 2017, to more closely match its current operations. - [yahoo]
 
 > Genesis Mining, the world's leading hashpower provider with over 700,000 customers, has entered into an exclusive partnership with HIVE to provide and operate up to five blockchain Data Centres - [newswire]
 
@@ -42,7 +42,7 @@ Hive operates in the cryptocurrency mining industry which has seen some major de
 
 ## Results
 
-Hive has operations around the world including, Iceland, Sweden and its headquarters in Canada. They've utilized state of the art techology to mine crypto using renewable energy sources. They've shown that crypto mining can be done in an environmentally friendly way and can provide value to investors without having to directly take on the risk of crypto .
+Hive has operations around the world including, Iceland, Sweden and its headquarters in Canada. They've utilized state of the art techology to mine crypto using renewable energy sources. They've shown that crypto mining can be done in an environmentally friendly way and can provide value to investors without having to directly take on the risk of crypto.
 
 One of the best metrics for crypto mining is hashes per second (H/s). When crypto is created, it has to be written to the blockchain through solving complicated mathematical problems to verify hashes. So the amount of crypto mined is directly associated with how many hashes are created in a given time. Additionally, the energy consumption in megawatts (MW) will add to their costs and should be reduced.
 
@@ -71,9 +71,15 @@ It would appear that Riot is very much ahead of Hive in the amount of BTC it has
 
 Hive has invested a lot of its resources into building crypto mining facilities that use state of the art machines and green energy. As regulators around the world are increasingly concerned with sustainability, Hive can lease some of their resources to other companies or individuals. Hive could levy a fee for this service that would compensate them for all their costs plus some profit margin. This would be a cloud-based approach. Their strategy of mining and hoarding or selling cryptocurrencies is great as long as the value of the cryptocurrency remains strong. By allowing other participants to mine and accumulate cryptocurrencies, they may encourage the use and demand for it, thus increasing its value. To enable this, Hive would only have to make sure that their machines are only leased out for the duration of the contract and make sure that they are always functional. However, opening their networks to outsiders would require stronger cybersecurity since there may be some malicious users who may compromise their systems.
 
+Hive could also lease out its data centers for other industry that require high power computation such as AI/ML and cybersecurity. Some other companies have started doing this as a way to diversify their revenue streams.
+
+> Miners entering the high-performance computing market are essentially hitching the wagon on a “mega-trend that should last for many years,” B. Riley’s Pipe said. - [coindesk](https://www.coindesk.com/consensus-magazine/2023/02/21/bitcoincrypto-miners-diversifying-amid-icy-winter/)
+
+Selling power credits could also boost revenue if some data centers were to be shutdown temporarily. Power can be sold back to the grid. This depends on the jurisdiction of the data center.
+
 Hive stores all of its cryptocurrency in cold storage meaning that it is not connected to the internet. This keeps it safe from hackers or any other compromise from the network. They could offer to store crypto for customers like a bank safe deposit box for a fee. Offering cold storage for crypto for a fee, could add another revenue stream but it does create issues with physical security of the cold wallets.
 
-[yfin]: <https://ca.finance.yahoo.com/quote/HIVE.V/profile?p=HIVE.V>
+[yahoo]: <https://ca.finance.yahoo.com/quote/HIVE.V/profile?p=HIVE.V>
 [newswire]: <https://www.newswire.ca/news-releases/hive-blockchain-currently-leeta-gold-announces-strategic-partnership-with-leading-cryptocurrency-miner-genesis-mining-and-acquisition-of-data-centre-in-iceland-628387573.html>
 [tgam]: <https://www.theglobeandmail.com/globe-investor/investment-ideas/frank-giustra-backed-firm-hive-switches-from-mining-gold-to-bitcoin/article36572363/>
 [Hive]: <https://www.hiveblockchain.com/corporate/about>
