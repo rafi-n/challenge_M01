@@ -22,7 +22,7 @@ Hive has received several amounts of funding from its inception (2017) up to the
 * **$15M** amendement to previous $100M due to demand and **$3M** from Genesis - [hiveblockchain](https://www.hiveblockchain.com/news/hive-blockchain-announces-upsize-of-financing-to-115-million-including-minimum-investment-of-3-million-by-genesis-mining/)
 * **$110M** private placement financing - [hiveblockchain](https://www.hiveblockchain.com/news/hive-blockchain-announces-110020000-bought-deal-private-placement-financing-to-expand-btc-production-by-an-additional-one-exahash-per-second-in-the-summer-2022/)
 
-## Business Activities:
+## Business Activities
 
 Cryptocurrencies in general, allow for low cost transactions and ease of access to services. Anyone around the world with internet access can participate in cryptocurrency markets. Hive provides a way for investors to gain access to the cryptomarket while not investing directly in cryptocurrency itself.
 
@@ -36,7 +36,7 @@ Crypto mining is power intensive and requires high efficiency to improve margins
 
 Hive is utilizing various technologies for its mining activities. The main technology is blockchain which is a large distributed, indestructible ledger of all cryptocurrency transactions. Hive has invested a lot in hardware for their data centers as well as the chips that power that hardware. Hive is one of four companies that has been selected to use Intel's "Blockscale" chip. As previously mentioned, they have developed their own highly efficient crypto mining machine. - [hiveblockchain](https://www.hiveblockchain.com/news/hive-blockchain-provides-march-2022-production-and-intel-update/) 
 
-## Landscape:
+## Landscape
 
 Hive operates in the cryptocurrency mining industry which has seen some major developments over the last 5-10 years. One of the greatest innovations during those years has been in the semiconductor industry. GPUs and ASICs that perform vast amounts of calculations at high speed and efficiency have changed the game for crypto mining. Without these innovations, crypto mining would not be feasible. The mining process requires a lot of energy to drive the machines and chips that do the actual mining. Green energy technology has helped miners run their business sustainably and not draw the attention of regulators. The industry has attracted a lot of attention all over the world and there are more players in it today. Notably, Hive's main competitors are Riot Blockchain, and Hut 8 Mining Corp. - [Investopedia](https://www.investopedia.com/top-crypto-mining-stocks-5213809)
 
