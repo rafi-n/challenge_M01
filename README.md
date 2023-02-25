@@ -54,8 +54,6 @@ One of the best metrics for crypto mining is hashes per second (H/s). When crypt
 
 \* EH/s: Exahashes per second, Exa=10<sup>18</sup> 
 
-One of the best metrics for crypto mining is hashes per second (H/s). When crypto is created, it has to be written to the blockchain through solving complicated mathematical problems to verify hashes. So the amount of crypto mined is directly associated with how many hashes are created in a given time. 
-
 Hive and Riot crypto production is summarized in the table below:
 
 |Company|BTC Holdings 2022|
